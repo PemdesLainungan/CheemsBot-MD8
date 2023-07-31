@@ -10,7 +10,7 @@ global.antispam = false //auto kick spammer (true to on, false to off)
 
 
 //if api key expire, u can generate one from here: https://beta.openai.com/account/api-keys
-global.keyopenai = "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"
+global.keyopenai = "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"
 
 //documents variants
 global.doc1 = 'application/vnd.openxmlformats-officedocument.presentationml.presentation'
@@ -21,27 +21,27 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner = ['916909137213'] //ur owner number
-global.ownernomer = "916909137213" //ur owner number2
-global.ownername = "🦄Dream Guy Xeon" //ur owner name
-global.ytname = "YT: Xeon" //ur yt chanel name
-global.socialm = "GitHub: DGXeon" //ur github or insta name
+global.owner = ['6285397904282'] //ur owner number
+global.ownernomer = "6285397904282" //ur owner number2
+global.ownername = "🦄Anno djie" //ur owner name
+global.ytname = "YT: Anno djie" //ur yt chanel name
+global.socialm = "GitHub: Pemdeslainungan" //ur github or insta name
 global.location = "India, Mizoram, Aizawl" //ur location
 
 //new
-global.botname = "Cheems Bot MD V8"
-global.ownernumber = '916909137213'
+global.botname = "Anno Bot MD V8"
+global.ownernumber = '6285397904282'
 global.ownername = '🦄드림 가이 Xeon'
-global.ownerNumber = ["916909137213@s.whatsapp.net"]
-global.ownerweb = "https://youtube.com/@DGXeon"
-global.websitex = "https://youtu.be/L_SIk59QeAU"
-global.wagc = "https://chat.whatsapp.com/Dc2qyVeK8JbJq8Gr3U1pKH"
+global.ownerNumber = ["6285397904282@s.whatsapp.net"]
+global.ownerweb = "https://youtube.com/@annodjie"
+global.websitex = "https://youtu.be/annodjie"
+global.wagc = "https://chat.whatsapp.com/LmJzlspI7gPJmL1yZN5mNz"
 global.themeemoji = '🪀'
 global.wm = "Xeon Bot Inc."
-global.botscript = 'https://github.com/DGXeon/CheemsBot-MD6' //script link
+global.botscript = 'https://github.com/DGXeon/pemdeslainungan' //script link
 global.packname = "Sticker By"
-global.author = "🦄드림 가이 Xeon\n\n+916909137213"
-global.creator = "916909137213@s.whatsapp.net"
+global.author = "🦄드림 가이 Anno\n\n+6285397904282"
+global.creator = "6285397904282@s.whatsapp.net"
 global.prefa = ['','!','.','#','&']
 global.sessionName = 'session'
 global.hituet = 0
